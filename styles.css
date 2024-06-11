@@ -36,7 +36,7 @@ div::-webkit-scrollbar {
 
 #menu {
     position: absolute;
-    top: calc(50% - 197px);
+    top: calc(50% - 268px);
     left: calc(50% + 370px);
     list-style: none;
 }
